@@ -22,7 +22,7 @@
 - `rm -rf Green-Lover`
 - `git clone https://github.com/Shakibur-Cyber-King/Green-Lover`
 - `cd Green-Lover`
-- `python File.py`
+- `python JS.py`
      
 
  ```This Tools is Free Enjoy ```</br>
