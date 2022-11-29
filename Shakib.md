@@ -20,9 +20,9 @@
 - `pip install mechanize`
 - `pip install bs4`
 - `rm -rf Green-Lover`
-- `git clone https://github.com/Shakibur-Cyber-King/Green-Lover`
+- `git clone https://github.com/SHAKIBUR-404/Green-Lover`
 - `cd Green-Lover`
-- `python JS.py`
+- `python Shakib.py`
      
 
  ```This Tools is Free Enjoy ```</br>
